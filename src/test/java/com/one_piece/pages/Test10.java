@@ -4,5 +4,5 @@ public class Test10 {
 
     // I have no imagination
 
-    //Knock knock
+    //Knock
 }
